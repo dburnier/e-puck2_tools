@@ -1,0 +1,7 @@
+tar ext /dev/cu.usbmodemEPUCK1
+mon swdp_scan
+att 1
+mon se 1
+mon ge
+det
+quit
